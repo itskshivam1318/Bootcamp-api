@@ -1,0 +1,13 @@
+{
+	"name":"Devworks Bootcamp",
+	"description":"Devworks is a full stack javascript bootcamp",
+	"website":"https://devworks.com",
+	"phone":"(111) 111-1111",
+	"email":"enroll@devworks.com",
+	"address":"233 bay state",
+	"careers":["Web Development","UI/UX"],
+	"housing":true,
+	"jobAssistance":true,
+	"jobGuarantee":false,
+	"acceptGi": true
+}
